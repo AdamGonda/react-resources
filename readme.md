@@ -43,3 +43,9 @@ You can find here a lot of stuff around frontend.
 [Hooks](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 [Functional programming concepts](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 [Declarative programming](https://www.youtube.com/watch?v=yGh0bjzj4IQ&t=725s)
+
+## State management solutions
+
+[Redux](https://redux.js.org/)
+[Redux saga](https://redux-saga.js.org/)
+[Xstate](https://xstate.js.org/)
